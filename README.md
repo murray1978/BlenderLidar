@@ -23,6 +23,6 @@
   Web interface for remote access
   
 ## Help with Lidar
- For help with lidar unit's I have followed this discord channl https://discord.com/channels/647756128058605581/861328431932768296
+ For help with lidar unit's I have followed this discord channel https://discord.com/channels/647756128058605581/861328431932768296
  For help with this script use the github Issues function for this project.
  If you do modify the above code expect frequent blender crash's
