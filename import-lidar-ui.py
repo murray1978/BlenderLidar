@@ -1,4 +1,5 @@
-import bpy
+#At some point will need to break this up into __init__.py, import_lidar.py and lds006.py
+
 import sys
 import serial
 import time
