@@ -1,3 +1,9 @@
+/*
+ * Serial protocol is Header 0xFA, reserved, reserved ,ascention, declination, range, checksum
+ * angles are calculated as (real_angle & 0xA0 ) >> 4 
+ * range is low,high in mm 
+ * reserved is for future use. set as 0xA5 0x5A for now
+ */
 #include <Servo.h>
 #include <Math.h>
 
